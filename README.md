@@ -8,3 +8,11 @@ Our approach in the example models the posterior distribution by a Diffusion mod
 
 1. Training Data Preparation: There are three 'data_gen' code to generate the corresponding data. The test data are also uploaded to reduce computational time.
 2. Run training_model.py to train the model, during training, the loss and relative error of mean and std are output.
+
+Generated mean compared (10000s training, 70s generation for 1000 samples)  with MCMC (Days)
+![mean](https://github.com/wang-zhongjian/CFNO/assets/54036885/d6c4bfba-0338-468d-bbf7-950b3f6919c8)
+Generated std compared with MCMC
+![std](https://github.com/wang-zhongjian/CFNO/assets/54036885/9a1600f8-b377-49b3-b752-cd16636da75d)
+Generated realizations
+![real1](https://github.com/wang-zhongjian/CFNO/assets/54036885/958a3b6e-eb4e-4d4f-aac3-1c29d70623d3)
+![real2](https://github.com/wang-zhongjian/CFNO/assets/54036885/536233b5-1cdd-4f3d-8e7d-cf69ee7d4044)
