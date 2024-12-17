@@ -16,3 +16,7 @@ Generated std compared with MCMC
 Generated realizations
 ![real1](https://github.com/wang-zhongjian/CFNO/assets/54036885/958a3b6e-eb4e-4d4f-aac3-1c29d70623d3)
 ![real2](https://github.com/wang-zhongjian/CFNO/assets/54036885/536233b5-1cdd-4f3d-8e7d-cf69ee7d4044)
+
+
+related preprint: Wasserstein Bounds for generative diffusion models with Gaussian tail
+  targets, http://arxiv.org/abs/2412.11251
